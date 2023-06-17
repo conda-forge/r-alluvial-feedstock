@@ -1,11 +1,11 @@
-About r-alluvial
-================
+About r-alluvial-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-alluvial-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/mbojan/alluvial
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-alluvial-feedstock/blob/main/LICENSE.txt)
 
 Summary: Creating alluvial diagrams (also known as parallel sets plots) for multivariate and time series-like data.
 
